@@ -1,0 +1,32 @@
+package ObjectClasses;
+
+public enum ProductCategory {
+    BAG,
+    BAKERY,
+    BEVERAGES,
+    BREAD,
+    CANNED,
+    CHILDREN,
+    COFFEE_TEA,
+    CONFECTIONERY,
+    DAIRY,
+    DRINKS,
+    EGGS,
+    FISH,
+    FROZEN,
+    FRUITS,
+    GROCERY,
+    HOUSEHOLD,
+    HYGIENE,
+    MEAT,
+    PACKAGES,
+    PET,
+    READY,
+    SAUCES_AND_SPICES,
+    SEAFOOD,
+    SNACKS,
+    SWEETS,
+    UNCATEGORIZED,
+    UNDEFINED,
+    VEGETABLES;
+}
